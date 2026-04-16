@@ -20,8 +20,6 @@
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
-
 ### 🧠 About Me
 
 ```typescript
