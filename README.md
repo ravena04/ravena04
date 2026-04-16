@@ -12,9 +12,9 @@
 <br/><br/>
 
 <!-- Profile views + followers badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=ravena-s&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ravena04&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/ravena-s?style=for-the-badge&color=7c3aed&labelColor=0d1117)](https://github.com/ravena-s)
+[![GitHub followers](https://img.shields.io/github/followers/ravena04?style=for-the-badge&color=7c3aed&labelColor=0d1117)](https://github.com/ravena04)
 
 </div>
 
@@ -34,7 +34,6 @@ const ravena = {
   location   : "Tamil Nadu, India 🇮🇳",
   roles      : ["Full Stack Developer", "DevOps Intern", "Problem Solver"],
   currentFocus: "Building scalable MERN apps & mastering Cloud & DSA",
-  funFact    : "I debug with console.log and I'm not ashamed 😄",
 };
 ```
 
@@ -116,27 +115,12 @@ const ravena = {
 
 | 🚀 Project | 🧰 Tech Stack | 📌 Highlights |
 |---|---|---|
-| **[Lost & Found Tracker](https://github.com/ravena-s)** | ReactJS, Node, MongoDB, Cloudinary, Tailwind | JWT auth, GPS auto-matching, QR-code posters, real-time chat |
-| **[AI Resume Analyzer](https://github.com/ravena-s)** | ReactJS, Node, MongoDB, Groq API, pdf-parse | ATS scoring, keyword-gap analysis, LLM-powered resume rewrites |
-| **[WellNest](https://github.com/ravena-s)** | ReactJS, Node, MongoDB, ExpressJS | Doctor appointment system, JWT auth, encrypted records, payments |
+| **[Lost & Found Tracker](https://github.com/ravena04)** | ReactJS, Node, MongoDB, Cloudinary, Tailwind | JWT auth, GPS auto-matching, QR-code posters, real-time chat |
+| **[AI Resume Analyzer](https://github.com/ravena04)** | ReactJS, Node, MongoDB, Groq API, pdf-parse | ATS scoring, keyword-gap analysis, LLM-powered resume rewrites |
+| **[WellNest](https://github.com/ravena04)** | ReactJS, Node, MongoDB, ExpressJS | Doctor appointment system, JWT auth, encrypted records, payments |
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravena-s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravena-s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ravena-s&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak"/>
-
-</div>
 
 ---
 
@@ -179,10 +163,10 @@ const ravena = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravena.s2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravena-s)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravena-s)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ravena-s)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/ravena-s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravena04)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravena04)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ravena04)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/ravena04)
 
 </div>
 
